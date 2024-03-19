@@ -1,4 +1,4 @@
-#Shopping Cart BusyBuy
+# Shopping Cart BusyBuy
 
 It is a type of  E-commerce application where users need to login. On the home page, users can see  all the products with their pricing.
 users can add the product to their cart. Inside the cart, users can increase the product count  also they can remove the product if they don't want.
