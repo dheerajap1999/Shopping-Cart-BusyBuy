@@ -1,4 +1,19 @@
-# Getting Started with Create React App
+#Shopping Cart BusyBuy
+
+It is a type of  E-commerce application where users need to login. On the home page, users can see  all the products with their pricing.
+users can add the product to their cart. Inside the cart, users can increase the product count  also they can remove the product if they don't want.
+after that user can click on the order button which will land the user on the MyOrder page, where the total price and the product's details will be shown in table format.
+
+## To run applications on your devices.
+
+### Follow the instructions below.
+
+* Copy this URL [https://github.com/dheerajap1999/Shopping-Cart-BusyBuy.git] and on your desired folder clone this repository.
+* Then open the folder with any code editor and in the terminal go to the desired path using the cd command.
+* After that to install all the packages and library which was used in this application type `npm install` or `npm i`.
+* After completing the installation type `npm start` this will host the application on [http://localhost:3000](http://localhost:3000).
+* That's it and you are good to go.
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
